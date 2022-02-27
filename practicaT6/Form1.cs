@@ -16,5 +16,17 @@ namespace practicaT6
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nombre, apellidos, telefono;
+
+            nombre = tNombre.Text;
+            apellidos = tApellidos.Text;
+            telefono = tTelefono.Text;
+
+            tListaSocios.Text = tListaSocios.Text + nombre + " " + apellidos + " " + telefono + " " + "\r\n";
+
+        }
     }
 }
