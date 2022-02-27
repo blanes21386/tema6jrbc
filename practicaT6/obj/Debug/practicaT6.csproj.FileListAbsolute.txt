@@ -1,0 +1,10 @@
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\bin\Debug\practicaT6.exe.config
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\bin\Debug\practicaT6.exe
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\bin\Debug\practicaT6.pdb
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\obj\Debug\practicaT6.csproj.AssemblyReference.cache
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\obj\Debug\practicaT6.Form1.resources
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\obj\Debug\practicaT6.Properties.Resources.resources
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\obj\Debug\practicaT6.csproj.GenerateResource.cache
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\obj\Debug\practicaT6.csproj.CoreCompileInputs.cache
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\obj\Debug\practicaT6.exe
+C:\Users\juanrra\Source\Repos\blanes21386\tema6jrbc\practicaT6\obj\Debug\practicaT6.pdb
