@@ -80,7 +80,7 @@ namespace practicaT6
             // 
             this.button1.Location = new System.Drawing.Point(685, 96);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(84, 35);
             this.button1.TabIndex = 13;
             this.button1.Text = "Guardar";
             this.button1.UseVisualStyleBackColor = true;
